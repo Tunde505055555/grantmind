@@ -29,7 +29,7 @@
 12. [Verifying transactions on-chain](#verifying-transactions-on-chain)
 13. [Troubleshooting](#troubleshooting)
 14. [Roadmap](#roadmap)
-15. [License](#license)
+
 
 ---
 
