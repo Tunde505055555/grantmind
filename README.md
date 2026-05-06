@@ -272,6 +272,4 @@ attempt re-reads cleanly.
 - [ ] Reviewer attribution (display the validator set that produced the verdict)
 - [ ] Optional grant payout flow once GenLayer mainnet exposes value transfer
 
-## License
 
-MIT — do whatever you want, just don't ship mocks and call them on-chain.
